@@ -1,0 +1,1 @@
+gcc -o timeit.exe timeit.c && timeit.exe
